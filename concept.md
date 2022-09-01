@@ -1,9 +1,6 @@
 # Projet final
 ## parcous de salle interractive
 
-# Projet final
-## parcous de salle interractive
-
 ![](teamlab-galaxy-sacred-forest-1-1240x698.jpg)
 
 ![.](Article-partenaire-PDC_1639079879.jpg)
